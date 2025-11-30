@@ -1,0 +1,26 @@
+ h1 {
+     text-transform: uppercase ;
+    }
+
+ p  {
+     background-color: orange;
+     color: blue;
+    }
+button {
+    border-radius: 25%;
+    padding: 8px 10px;
+}  
+
+ul{ 
+    display: flex;
+  
+    list-style-type: none;
+    text-decoration: underline;   
+}
+
+li {
+    border: 20px solid red;
+    margin: 0 10px;
+    padding: 10px; 
+    margin-bottom: 20px;
+}

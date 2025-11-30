@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(255,99,71);
+}
+
+.navigatie{
+    background-color: #ffd602;
+}
+.navigatie a:hover{
+    color: white;
+    background-color: black;
+}
+
+#item2{
+    color: white;
+    background-color:  #222222;
+}
+
+.Summary{
+      color:  #ffd602;
+      background-color:  #222222;
+}
+
+
+hr{
+    border: 1px solid #ffd602;
+}
+
+div a{
+ color: white;
+ background-color:rgba(0,0,0,0.4);
+}
+li a {
+    text-decoration: none;
+    color: black;
+}
